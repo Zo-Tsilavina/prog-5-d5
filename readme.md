@@ -56,3 +56,5 @@ Affiche les options, collecte les choix, transmet les informations aux modules c
 3. Vérifications (alimentation, ingrédients, eau)
 4. Préparation et distribution du café
 5. Affichage d’un message de succès ou d’erreur
+
+Spec binome: https://github.com/Niainah/prog5-d5/blob/main/README.md
